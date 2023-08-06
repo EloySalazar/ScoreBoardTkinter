@@ -5,7 +5,7 @@ Simple ScoreBoardmade with tkinter and matplotlib and Python 3,shows different c
 
 - Get the code:
     ```
-    git clone https://github.com/JheyluisReyes/ScoreBoard.git
+    git clone https://github.com/EloySalazar/ScoreBoard.git
     ```
 ## dependencies
 This project is made in python 3 and Custom Tkinter,glob and matplotlib
